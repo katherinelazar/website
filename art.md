@@ -16,7 +16,7 @@ layout: default
         <img class="img" style="width:100%" src="{{ '/assets/img8.png' | relative_url }}">
     </div>
 </div>
-
+ <!-- test -->
 
 
 
