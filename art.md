@@ -11,9 +11,9 @@ layout: default
     </div>
         <div class="column">
         <img class="img" style="width:100%" src="{{ '/assets/img5.jpg' | relative_url }}">
-        <img class="img" style="width:100%" src="{{ '/assets/img6.jpg' | relative_url }}">
-        <img class="img" style="width:100%" src="{{ '/assets/img7.jpg' | relative_url }}">
-        <img class="img" style="width:100%" src="{{ '/assets/img8.png' | relative_url }}">
+        <img class="img" style="width:100%" src="{{ '/assets/img6.JPG' | relative_url }}">
+        <img class="img" style="width:100%" src="{{ '/assets/img7.JPG' | relative_url }}">
+        <img class="img" style="width:100%" src="{{ '/assets/img8.PNG' | relative_url }}">
     </div>
 </div>
  <!-- test -->
